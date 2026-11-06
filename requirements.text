@@ -1,0 +1,4 @@
+web3>=7.0,<8
+py-solc-x>=2.0,<3
+pytest>=8.0
+notebook>=7.0
